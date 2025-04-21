@@ -1,0 +1,1 @@
+This is some exercise I did for Front end development, the idea here is creating a Web page that lists teachers on the center and the user can see some information about then and even hire their services.
